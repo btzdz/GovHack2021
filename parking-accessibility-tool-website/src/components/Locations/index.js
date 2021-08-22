@@ -73,12 +73,6 @@ function Locations() {
     const [i, setI] = useState(0);
     const max = 4;
 
-
-    const handleKeyUp = (e) => {
-      if (e.key === "Enter") {
-          history.push('/locations/chatswood')
-      }
-    }
     const goNext = () => {
         setI((i+1)%max);
     }
@@ -98,7 +92,6 @@ function Locations() {
                     input: classes.inputInput,
                 }}
                 inputProps={{ 'aria-label': 'search' }}
-                onKeyUp={handleKeyUp}
                 />
             </div>
         </div>
