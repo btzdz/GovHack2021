@@ -1,0 +1,384 @@
+TSN,Interchange Name,Total Spaces (car + motorcycle spaces) 
+233610,Aberdeen,5
+228920,Adamstown,20
+252710,Albion Park,76
+222020,Allawah,0
+220520,Arncliffe,65
+206410,Artarmon,0
+213110,Ashfield,237
+207730,Asquith,62
+214410,Auburn,0
+251540,Austinmer,47
+228310,Awaba,12
+221610,Banksia,0
+220010,Bankstown,61
+220710,Bardwell Park,121
+257420,Bargo,19
+279538,Bathurst ,24
+211910,Beecroft,162
+278620,Bell,0
+251810,Bellambi,33
+219210,Belmore,61
+214120,Berala,2
+232230,Beresfield,16
+208110,Berowra,289
+253510,Berry,28
+220910,Beverly Hills,0
+220720,Bexley North,61
+214320,Birrong,18
+278510,Blackheath,21
+214810,Blacktown,610
+277410,Blaxland,105
+254110,Bomaderry (Nowra),71
+253320,Bombo,10
+202210,Bondi Junction,23
+228410,Booragul,9
+257610,Bowral,140
+233510,Branxton,10
+229210,Broadmeadow,69
+278410,Bullaburra,0
+251610,Bulli,57
+257810,Bundanoon,0
+257620,Burradoo,0
+213410,Burwood,0
+216620,Cabramatta,77
+214210,Camellia,32
+256020,Campbelltown,1121
+219410,Campsie,2
+216610,Canley Vale,181
+219320,Canterbury,0
+228520,Cardiff,49
+222910,Caringbah,0
+211810,Carlingford,20
+221810,Carlton,49
+216330,Carramar,69
+217030,Casula,23
+200060,Central,107
+206710,Chatswood,33
+211920,Cheltenham,11
+216220,Chester Hill,144
+200020,Circular Quay,219
+230010,Civic,0
+275630,Clarendon,15
+214230,Clyde,0
+250850,Coalcliff,2
+228430,Cockle Creek,15
+251530,Coledale,0
+222610,Como,62
+213810,Concord West,0
+250030,Coniston,17
+251820,Corrimal,49
+208120,Cowan,15
+250520,Cringila,17
+223020,Cronulla,28
+213210,Croydon,0
+253020,Dapto,290
+211410,Denistone,40
+202020,Domestic Airport,0
+276710,Doonside,116
+226420,Dora Creek,69
+256910,Douglas Park,0
+220310,Dulwich Hill,56
+211720,Dundas,51
+242010,Dungog,21
+252910,Dunmore (Shellharbour),0
+221320,East Hills,76
+232330,East Maitland,21
+275310,East Richmond,57
+212210,Eastwood,65
+202710,Edgecliff,0
+217426,Edmondson park,468
+275020,Emu Plains,795
+223310,Engadine,185
+212110,Epping,0
+204310,Erskineville,0
+257930,Exeter,11
+216510,Fairfield,315
+251910,Fairy Meadow,40
+228330,Fassifern,160
+277610,Faulconbridge,46
+214020,Flemington,0
+253420,Gerringong,9
+277310,Glenbrook,136
+216710,Glenfield,923
+207210,Gordon,350
+225040,Gosford,1258
+258010,Goulburn,51
+214240,Granville,104
+201710,Green Square,0
+233410,Greta,6
+216110,Guildford,0
+222710,Gymea,0
+230310,Hamilton,0
+215010,Harris Park,0
+208310,Hawkesbury River,54
+277910,Hazelbrook,70
+223320,Heathcote,132
+250810,Helensburgh,147
+232210,Hexham,16
+232010,High Street,20
+242040,Hilldale,0
+217310,Holsworthy,1671
+214010,Homebush,1
+207720,Hornsby,475
+219310,Hurlstone Park,0
+222010,Hurstville,10
+256510,Ingleburn,134
+2020101,International Airport,0
+222620,Jannali,186
+278020,Katoomba,91
+253010,Kembla Grange Racecourse,30
+253330,Kiama,89
+207110,Killara,86
+201110,Kings Cross,0
+220810,Kingsgrove,51
+274720,Kingswood,265
+223230,Kirrawee,116
+221710,Kogarah,436
+225620,Koolewong,35
+228910,Kotara,0
+219510,Lakemba,178
+275030,Lapstone,34
+278310,Lawson,34
+216310,Leightonfield,18
+217933,Leppington,872
+256010,Leumeah,796
+278010,Leura,19
+204920,Lewisham,0
+214110,Lidcombe,8
+277820,Linden,0
+207010,Lindfield,3
+225070,Lisarow,28
+279010,Lithgow,18
+217020,Liverpool,103
+232110,Lochinvar,5
+223220,Loftus,113
+250510,Lysaghts,0
+256030,Macarthur,696
+201520,Macdonaldtown,0
+256410,Macquarie Fields,98
+211340,Macquarie Park,0
+211310,Macquarie University,0
+232020,Maitland,109
+214820,Marayong,178
+220410,Marrickville,1
+200030,Martin Place,0
+242050,Martins Creek,0
+257940,Marulan,0
+202010,Mascot,9
+211430,Meadowbank,26
+278030,Medlow Bath,0
+256810,Menangle,0
+256310,Menangle Park,110
+216010,Merrylands,313
+232310,Metford,50
+206110,Milsons Point,0
+232050,Mindaribba,0
+253310,Minnamurra,0
+256610,Minto,587
+222810,Miranda,58
+257510,Mittagong,55
+226410,Morisset,281
+222310,Mortdale,25
+257710,Moss Vale,106
+207910,Mount Colah,25
+277010,Mount Druitt,623
+208010,Mount Kuring-gai,0
+278610,Mount Victoria,61
+275610,Mulgrave,147
+200040,Museum,0
+233310,Muswellbrook,18
+2250772,Narara,78
+220920,Narwee,72
+230020,Newcastle,0
+204210,Newtown,0
+225060,Niagara Park,42
+207620,Normanhurst,0
+211320,North Ryde,0
+213710,North Strathfield,0
+206010,North Sydney,7
+250010,North Wollongong,0
+252920,Oak Flats,615
+222320,Oatley,14
+212710,Olympic Park,3
+250830,Otford,16
+225810,Ourimbah,139
+221110,Padstow,148
+221310,Panania,131
+215020,Parramatta,2
+242110,Paterson,14
+214530,Pendle Hill,127
+212020,Pennant Hills,5
+275010,Penrith,2516
+257920,Penrose,0
+222210,Penshurst,0
+204910,Petersham,0
+257110,Picton,72
+225030,Point Clare,53
+250540,Port Kembla,12
+250530,Port Kembla North,0
+219610,Punchbowl,136
+207310,Pymble,0
+276310,Quakers Hill,3
+201510,Redfern,0
+214310,Regents Park,83
+221210,Revesby,1125
+213820,Rhodes,3
+275320,Richmond,206
+276510,Riverstone,69
+221010,Riverwood,0
+221620,Rockdale,198
+276610,Rooty Hill,845
+214220,Rosehill,0
+206910,Roseville,30
+211610,Rydalmere,30
+230430,Sandgate,0
+251510,Scarborough,22
+276220,Schofields,235
+233710,Scone,0
+216210,Sefton,17
+214710,Seven Hills,2206
+2529218,Shellharbour junction,105
+233010,Singleton,0
+277720,Springwood,547
+200050,St James,0
+206520,St Leonards,6
+276010,St Marys,629
+204410,St Peters,0
+204810,Stanmore,0
+250840,Stanwell Park,21
+213510,Strathfield,0
+213010,Summer Hill,0
+223210,Sutherland,801
+204420,Sydenham,23
+257310,Tahmoor,0
+257950,Tallong,0
+232220,Tarro,5
+225020,Tascott,57
+232030,Telarah,29
+211710,Telopea,7
+204430,Tempe,157
+228420,Teralba,28
+251550,Thirroul,320
+212010,Thornleigh,316
+232240,Thornton,63
+214610,Toongabbie,0
+200070,Town Hall,13
+251830,Towradgi,0
+225910,Tuggerah,510
+207410,Turramurra,106
+220530,Turrella,0
+252610,Unanderra,120
+277710,Valley Heights,0
+232320,Victoria Street,58
+216320,Villawood,29
+276520,Vineyard,0
+207610,Wahroonga,101
+207710,Waitara,71
+242020,Wallarobba,1
+2304301,Warabrook (University),197
+230410,Waratah,0
+225930,Warnervale,66
+207420,Warrawee,0
+277420,Warrimoo,34
+217010,Warwick Farm,879
+223330,Waterfall,207
+206020,Waverton,0
+278210,Wentworth Falls,119
+214520,Wentworthville,172
+274710,Werrington,265
+211420,West Ryde,191
+214510,Westmead,4
+229310,Wickham,0
+219520,Wiley Park,0
+275620,Windsor,204
+257910,Wingello,0
+242030,Wirragulla,0
+220510,Wolli Creek,0
+250020,Wollongong,546
+206510,Wollstonecraft,36
+251520,Wombarra,0
+225010,Wondabyne,0
+277810,Woodford,23
+223010,Woolooware,17
+251710,Woonona,68
+225610,Woy Woy,1023
+225940,Wyee,115
+200080,Wynyard,20
+225920,Wyong,337
+219910,Yagoona,119
+216120,Yennora,0
+257540,Yerrinbool,0
+278630,Zig Zag,0
+26401,Albury,20
+23501,Armidale,9
+23971,Bellata,0
+36721,Benalla,12
+27991,Blayney,0
+23821,Boggabri,0
+28801,Broken Hill,14
+26211,Bungendore,0
+24701,Casino,27
+24501,Coffs Harbour,38
+28772,Condobolin,0
+27011,Coolamon,0
+25901,Cootamundra,27
+26601,Culcairn,0
+28781,Darnick,0
+28301,Dubbo,40
+28771,Euabalong West,0
+24411,Eungai,0
+28311,Geurie,0
+24221,Gloucester,0
+258010,Goulburn,36
+24601,Grafton,54
+26801,Griffith,0
+23801,Gunnedah,2
+25811,Gunning,7
+25871,Harden,0
+26581,Henty,0
+28782,Ivanhoe,0
+26631,Junee,5
+24401,Kempsey,31
+24391,Kendall,9
+23521,Kootingal,0
+24741,Kyogle,0
+27051,Leeton,0
+24806,Lismore TC,22
+24471,Macksville,19
+28791,Menindee,0
+24001,Moree,0
+23381,Murrurundi,0
+24841,Murwillumbah TC,46
+24481,Nambucca Heads,0
+23901,Narrabri,13
+27001,Narrandera,0
+28001,Orange,28
+2800216,Orange (East Fork),0
+28701,Parkes,6
+26201,Queanbeyan,30
+23431,Quirindi,36
+2790128,Rydal,0
+24521,Sawtell,7
+V17191,Seymour,22
+28201,Stuart Town,0
+234012,Tamworth,38
+258011,Tarago,0
+27871,Tarana,0
+24301,Taree,29
+26551,The Rock,0
+235813,Uralla,1
+24551,Urunga,10
+26501,Wagga Wagga,43
+23541,Walcha Road,0
+36771,Wangaratta,12
+24461,Wauchope,21
+28202,Wellington,0
+23411,Werris Creek,12
+23391,Willow Tree,0
+24291,Wingham,10
+25821,Yass Junction,10
+24811,Byron Bay,0
+2153185,Torrs St Baulkham Hills,183
+211158,Huntleys Point Wharf,2
+2176255,Prairiewood,85
