@@ -6,8 +6,8 @@ On August 2021, I joined the #GovHack2021 in an eight member team, composed of D
 
 ## A bit about the hackathon:
 "Govhack is Australia's largest open government and open data hackathon, attracting in excess of 1000 participants each year. It is an international competition for people of all abilities who seek to make life better through open data. Across one weekend, thousands come together to form teams, agree projects, and participate in what has become one of the world’s largest open data competition. The competition is a two-day hack event held simultaneously across Australia and New Zealand, over a 46 hour period to create concepts, mashups and models with open government data, to examine the challenges facing government and communities in new and innovative ways."
-More on the competition here: https://govhack.org/about/
-Our submission on this link: https://hackerspace.govhack.org/projects/parking_accessibility_evaluation_tool
+<br> More on the competition here: https://govhack.org/about/ 
+<br> Our submission on this link: https://hackerspace.govhack.org/projects/parking_accessibility_evaluation_tool
 
 ## The challenges
 These year's challenges where focused on the following themes:
