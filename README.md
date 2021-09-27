@@ -1,3 +1,5 @@
+# GOVHACK 2021 HACKATHON 
+
 ## Overview
 
 On August 2021, I joined the #GovHack2021 in an eight member team, composed of Data Science Immersive graduates from General Assembly, and one Software Engineer.
@@ -15,7 +17,9 @@ Agriculture and the Environment
 Health & Wellbeing
 
 # Our submission
-Our team focused on the NSW challenge of Getting parking right: matching car parking rates to accessibility
+Our team focused on the NSW Infrastructure challenge "Getting parking right: matching car parking rates to accessibility".
+
+There are significant gaps in knowledge around how much car parking spaces are actually used. In NSW, there is currently no reliable way for accessibility to be measured.
 
 We created a Parking Accessibility Evaluation Tool Our solution aims to identify low and high accessibility zones that are crucial to empower land use planners with an evidence base system that meets car parking requirements, improves accessibility and mobility, and enable residents to access more opportunities. We did this by harnessing NSW open data extracting features such as such household travelling methods, Public transport, Commuter Car parks data, Population, Suburb level data, and Car Sharing data. 
 
